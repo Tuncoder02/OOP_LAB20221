@@ -1,0 +1,7 @@
+- Đại học bách khoa Hà Nội
+- Trường công nghệ thông tin và truyền thông
+- Môn thực hành lập trình hướng đối tượng
+- Giảng vên: Trinh Thành Trung
+- Trợ giảng: Nguyen Minh Thuong
+- Sinh viên: Trần Anh Tuấn
+- MSSV: 20205041
