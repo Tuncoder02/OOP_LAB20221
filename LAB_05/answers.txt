@@ -1,0 +1,7 @@
+LAB02
+- Câu hỏi: Khai nào nên sử dụng phương thức truy nhập?
+Trả lời: Phương thức truy nhập cho phép lấy và ghi lên các trường private, nên tạo phương thức truy nhập khi thực sự cần thiết.
+
+LAB02
+- Câu hỏi: JAVA là ngôn ngữ lập trình Pass by Value hay Pass by Reference? 
+Trả lời:JAVA là ngôn ngữ truyền tham trị Các giá trị tham số của phương thức được sao chép sang một biến khác và sau đó đối tượng được sao chép được truyền cho phương thức.
